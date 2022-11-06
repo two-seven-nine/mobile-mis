@@ -108,3 +108,5 @@ Goal: Ensure quality, speed and performance
 	- Onboarding documentation
 	- Consolidation of documents through a single link
 
+
+_This list is created using personal knowledge graph and content available over the internet. If there is anything private to anyone, Kindly raise a PR to get it removed._ 🙌
